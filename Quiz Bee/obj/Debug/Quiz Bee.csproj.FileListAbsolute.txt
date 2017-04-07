@@ -1,0 +1,9 @@
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\bin\Debug\Quiz Bee.exe.config
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz_Bee.Form1.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz_Bee.Properties.Resources.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz Bee.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\bin\Debug\Quiz Bee.exe
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\bin\Debug\Quiz Bee.pdb
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz Bee.exe
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz Bee.pdb
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Quiz Bee\Quiz Bee\obj\Debug\Quiz Bee.csprojResolveAssemblyReference.cache
